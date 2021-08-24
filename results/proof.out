@@ -1,0 +1,23 @@
+--- k = 5
+[0, 23, 34, 58, 181]
+[Auditing,Coaching,Digital Media,Gas,Department of Defense]
+0.0 1010
+
+[0, 40, 86, 91, 119, 181]
+[Auditing,Email,Job Scanning,K12 Education,Online Advertising,Department of Defense]
+0.0 1096
+
+[0, 23, 33, 57, 142]
+0.0 1004
+
+[0, 23, 79, 81, 122]
+[Auditing,Coaching,Interviewing,Integrated Marketing, Organizational Development]
+0.0 1012
+
+
+
+----------- Greedy
+[0, 86, 134, 57, 35]
+[Auditing,Job Scanning,Partnerships,Graphic Design,Drawing]
+496 550 1.10887096774 1046
+(496, 550, 0.9018181818181819, 1046)
